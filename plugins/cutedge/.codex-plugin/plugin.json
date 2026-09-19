@@ -1,0 +1,29 @@
+{
+  "name": "cutedge",
+  "version": "0.5.0+codex.20260919101847",
+  "description": "Create and edit multi-canvas screenshot projects with vision and precise native layout controls.",
+  "author": {
+    "name": "Lilacpane"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Lilacpane",
+    "shortDescription": "Create multi-canvas screenshot designs with ChatGPT.",
+    "longDescription": "Create and inspect multiple canvases, author editable geometry, typography, focus cards and layered backgrounds, refine visual previews, apply designs, undo changes and export PNG on your Mac.",
+    "developerName": "Lilacpane",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": "Use Lilacpane to inspect my canvases, create any new canvases needed, and show me reviewed design previews.",
+    "websiteURL": "https://cutedge.site",
+    "privacyPolicyURL": "https://cutedge.site/privacy",
+    "termsOfServiceURL": "https://cutedge.site/terms",
+    "brandColor": "#8675D9",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/icon.png",
+    "logoDark": "./assets/icon.png"
+  },
+  "mcpServers": "./.mcp.json"
+}
