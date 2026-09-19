@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "lilacpane": {
+      "command": "/bin/sh",
+      "args": ["-c", "if [ ! -x ./bin/lilacpane-mcp ]; then chmod u+x ./bin/lilacpane-mcp || exit 1; fi; exec ./bin/lilacpane-mcp"],
+      "cwd": "."
+    }
+  }
+}
