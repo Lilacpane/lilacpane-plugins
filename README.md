@@ -1,9 +1,9 @@
 # Lilacpane Plugins
 
-Native macOS AI connector for Lilacpane and Codex. No Node.js or additional runtime required.
+Native macOS AI connector for Lilacpane and Codex, with support for Apple Silicon and Intel Macs. No Node.js or additional runtime required.
 
-[Download the latest signed and notarized release](https://github.com/Lilacpane/lilacpane-plugins/releases/latest).
+Create and inspect screenshot canvases, refine editable layouts, review previews, apply changes, undo edits, and export PNG through Lilacpane.
 
-Supports Apple Silicon and Intel Macs. Open a compatible Lilacpane Mac app and enable **Connect to AI Assistants** in Settings. Install the packaged plugin in a compatible local MCP host, or configure the absolute path to `cutedge/bin/lilacpane-mcp` as a stdio command. Keep Lilacpane running while using the connector.
+[Latest signed and notarized release](https://github.com/Lilacpane/lilacpane-plugins/releases/latest).
 
-The download includes the native executable, plugin metadata, icons, and screenshot design skill. This repository distributes the connector; it does not contain the Lilacpane editor application.
+This repository contains the connector, Codex marketplace metadata, icons, and screenshot design skill. The Lilacpane editor application is distributed separately.
