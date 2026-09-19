@@ -1,0 +1,7 @@
+interface:
+  display_name: "Design Screenshots"
+  short_description: "Design and refine screenshots with Lilacpane for Mac."
+  icon_small: "./assets/icon.png"
+  icon_large: "./assets/icon.png"
+  brand_color: "#8675D9"
+  default_prompt: "Use Lilacpane to design and refine my screenshot canvases."
